@@ -1,0 +1,18 @@
+html {
+  max-width: 794px;
+  height: 1123px;
+  margin: auto;
+}
+
+.bg-left {
+  background: #B26E63;
+  color: white;
+}
+
+.bg-left table {
+  font-size: 0.85rem;
+}
+
+.col-8 {
+  background: #E5DCC5;
+}
