@@ -16,3 +16,16 @@ html {
 .col-8 {
   background: #E5DCC5;
 }
+
+.unchecked {
+  color: black;
+}
+
+.lfName {
+  letter-spacing: .2rem;
+}
+
+div.h2.ml-4.mt-4 {
+  width: 300px;
+  line-height: 20px;
+}
