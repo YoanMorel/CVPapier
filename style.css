@@ -13,10 +13,6 @@ html {
   font-size: 0.85rem;
 }
 
-.col-8 {
-  background: #E5DCC5;
-}
-
 .unchecked {
   color: black;
 }
@@ -28,4 +24,27 @@ html {
 div.h2.ml-4.mt-4 {
   width: 300px;
   line-height: 20px;
+}
+
+.presentationCard {
+  width: 90%;
+  box-shadow: 1px 1px 6px #555;
+  word-wrap: break-word;
+  background: #F9DBBD;
+  color: #0D0628;
+}
+
+span.title {
+  display: block;
+  font-weight: bold;
+}
+
+span.date {
+  font-size: .85rem;
+  font-weight: lighter;
+}
+
+div.content {
+  font-size: .85rem;
+  font-family: serif;
 }
